@@ -24,12 +24,12 @@ For detecting images colors I used Kmeans to cluster colors. i made a thershould
 <p><img src="src/color_detection.png" alt=""></p>
 
 
-# 3 - Front side : 
+# 4 - Front side : 
 I used Streamlit to front side. An awesome library for building web apps entirely in Python. Unfortunately, Streamlit has limitations for customizing my necessary widgets, which did not allow me to make the color selection section the way I want :(
 
 <p><img src="src/preview.png" alt=""></p>
 
-# 4 - Make it online :
+# 5 - Make it online :
 I used Heroku a cloud platform as a service which provide a free hosting to deploy my app on it. it's and amzaing platform gave me so much flexbilte to deploy my apps
 
 
