@@ -74,3 +74,7 @@ Digikala is a prominent Iranian e-commerce platform offering a wide range of pro
     *   Enhance the user interface and interactivity to address Streamlit's limitations.
 
     *   Explore advanced image analysis techniques to extract more detailed clothing attributes.
+ 
+    
+### Project Protection:
+To protect the project's integrity, the code and dataframes are not shared on this public GitHub repository. If you'd like more information or have questions, please feel free to contact me via email. I'm always happy to discuss the project in more detail and collaborate on potential opportunities.
