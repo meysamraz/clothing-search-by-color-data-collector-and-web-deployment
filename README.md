@@ -2,7 +2,6 @@ Digikala is a prominent Iranian e-commerce platform offering a wide range of pro
 
 ***This project is a part of my portfolio, showcasing my skills. The main code isn't public, but I'm open to collaboration! Interested? Email me at mr.raz2002@gmail.com***
 
-
 ### Demo:
 
 <https://meysamraz-cloth-color-search-digikala-project.streamlit.app/>
