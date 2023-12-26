@@ -1,12 +1,15 @@
 Digikala is a prominent Iranian e-commerce platform offering a wide range of products, from digital devices and mobiles to laptops, books, and clothing. In this project, my focus was on creating a specialized clothing search engine based on exact color preferences and clothing types. The project primarily centers on men's t-shirts and shirts to showcase the functionality of the system.
 
+***This project is a part of my portfolio, showcasing my skills. The main code isn't public, but I'm open to collaboration! Interested? Email me at mr.raz2002@gmail.com***
+
+
 ### Demo:
 
 <https://meysamraz-cloth-color-search-digikala-project.streamlit.app/>
 
 ### Demo ***Heroku version***:
 
-**Update:** Heroku may discontinue free hosting after November 28, 2022. If this link does not work, please use the link above.
+**Update:** Heroku may shutdown free hosting so if this link didnt work use link above.
 
 <https://clothing-search-by-color.herokuapp.com/>
 
